@@ -1,0 +1,168 @@
+<resources>
+<!--    STRING TEXT -->
+    <string name="app_name">BA-Application-list</string>
+    <string name="splash_title">Blue Archive</string>
+    <string name="share">Share</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="back">Back</string>
+    <string name="character_name">Character Name</string>
+    <string name="owner_profile">Fadhil Abdul Fattah</string>
+    <string name="dicoding_email">theownerkill432@gmail.com</string>
+    <string name="bio">Biography</string>
+    <string name="school_type">School : </string>
+    <string name="description">Description : </string>
+    <string name="weapon">Weapon : </string>
+
+<!--    DATA -->
+    <string-array name="character_data_name">
+        <item>Aru</item>
+        <item>Chise</item>
+        <item>Tsurugi</item>
+        <item>Shiroko</item>
+        <item>Hasumi</item>
+        <item>Haruna</item>
+        <item>Hoshino</item>
+        <item>Akane</item>
+        <item>Hifumi</item>
+        <item>Aris</item>
+        <item>Marina</item>
+        <item>Misaki</item>
+        <item>Saori</item>
+        <item>Yuuka</item>
+        <item>Himari</item>
+    </string-array>
+    <string-array name="character_data_description">
+        <item>
+            Aru expanded Gehenna Academy"s Problem Solver 68 club without permission to conduct illegal business activities. She aspires to be seen as a dashing and debonair villain, but her frequent blunders always expose her as a poser.
+        </item>
+        <item>
+            Extremely fond of traditional activities such as writing haiku, which led her to join the Yin-Yang Club. Her exotic looks and presence have made her the envy of her peers at Hyakkiyako, but she seems completely oblivious to that fact.
+        </item>
+        <item>
+            She is belligerent and violent, with a tendency to destroy anything she does not like. However, thanks to the painstaking efforts of the task force is vice president, Hasumi, the club has managed to hold itself together. Tsurugi is like a beast that can not be controlled, but even she can\'t help but soften up when she\'s with her Sensei.
+
+        </item>
+        <item>
+          A girl of few words and almost no facial expression, Shiroko gives the impression of being frigid and emotionless. In truth, she is more devoted to Abydos High School than anything else. If it"s for the sake of revitalizing the academy, she'll do whatever it takes and sometimes propose some outlandish ideas herself.
+        </item>
+        <item>
+            Hasumi also acts as the task force is tactical commander on behalf of the wild and ferocious club president, Tsurugi. She may seem like any other ordinary Trinity student, but make no mistake, she"s a Justice Task Force member through and through. At times she'll do incredibly reckless things with absolute calm.
+        </item>
+        <item>
+            At a glance, she appears to possess the graceful charisma of a refined lady. But when it comes to food, she can turn into a deranged maniac at the flip of a switch. Despite her uncontrollable gluttony, she actually can"t stomach too much food at once. Her favorite foods are those rich in fat, such as motsunabe and horumonyaki.
+        </item>
+        <item>
+            Acts more like a tired old timer and would rather play pranks than do actual work. This often gets her into trouble with her fellow task force members, but once on a mission, she fights harder on the front lines than anyone else to keep her friends safe.
+        </item>
+        <item>
+            An agent of C&amp;C, a secret organization of the Millennium School. Akane operates under the call sign Zero-Three. She became known as the Master Cleaner for her modus operandi of infiltrating the enemy camp and clearing it out with explosives, all while wearing her signature gentle smile.
+        </item>
+        <item>
+            Hifumi"s just a regular girl with average `grades, but she"s nonetheless well liked and popular for her well-rounded personality. She"s a good listener for anyone who needs to vent about their worries or problems, but this also causes her to get swept up in the moment and unintentionally cause trouble.
+        </item>
+        <item>
+            A mysterious girl who was found sleeping within some ruins. All information regarding Aris age and origins is unknown. Currently, she has become a hardcore video game fanatic thanks to Midori and Momoi. The majority of her inarticulate speech is comprised of dialog from retro video games.
+        </item>
+        <item>
+            Though she"s known as a cold-hearted disciplinarian, the truth is she just blindly follows President Cherino"s orders. She likes the word "charge" and is the first to run off when a problem occurs within Red Winter Academy, but often loses her way due to her terrible sense of direction.
+        </item>
+        <item>
+            Misaki has no interest in others opinions or how they treat her. She can be reckless to a fault, and her wrists and neck are always covered with thick bandages.
+        </item>
+        <item>
+            She has a cold side where she uses any means or methods necessary to achieve her goal, but she is passionate and she expresses her emotions honestly. She is an unrivaled expert when it comes to guerrilla tactics, but she lacks common sense in everyday life. It is said that the Arius Squad is combat power is the result of completing Saori is training from start to finish.
+        </item>
+        <item>
+            Yuuka has a mathematical acumen that is notable even among Millennium is high ratio of STEM students. She oversees the entirety of Millennium is budget. Her special talent is the abacus, and she has a habit of fiddling with the beads when dealing with emotional or mental conflicts.
+        </item>
+        <item>
+            She styles herself as a super genius hacker, and claims she has a degree in Omniscience, which only three people have received in Millennium is history. However, no one is ever been able to confirm the existence of such a degree. Himari relishes this, believing that secrets make a girl more beautiful. None can deny that she is an extremely talented hacker with a strange taste for the occult.
+        </item>
+    </string-array>
+    <string-array name="character_data_school_name">
+        <item>Gehenna Academy</item>
+        <item>Allied Hyakkiyako Academy</item>
+        <item>Trinity General School</item>
+        <item>Abydos High School</item>
+        <item>Trinity General School</item>
+        <item>Gehenna Academy</item>
+        <item>Abydos High School</item>
+        <item>Millennium Science School</item>
+        <item>Trinity General School</item>
+        <item>Millennium Science School</item>
+        <item>Red Winter Federal Academy</item>
+        <item>Arius Satellite School</item>
+        <item>Arius Satellite School</item>
+        <item>Millennium Science School</item>
+        <item>Millennium Science School</item>
+    </string-array>
+    <string-array name="character_data_photo">
+        <item>https://static.miraheze.org/bluearchivewiki/d/db/Aru.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/d/d0/Chise.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/c/c1/Tsurugi.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/6/63/Shiroko.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/8/84/Hasumi.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/a/a6/Haruna.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/a/a9/Hoshino.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/a/aa/Akane.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/3/3b/Hifumi.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/0/0f/Arisu.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/9/9d/Marina.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/a/ae/Misaki.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/4/46/Saori.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/3/3e/Yuuka.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/5/5a/Himari.png</item>
+    </string-array>
+    <string-array name="character_url">
+            <item>https://bluearchive.wiki/wiki/Aru</item>
+            <item>https://bluearchive.wiki/wiki/Chise</item>
+            <item>https://bluearchive.wiki/wiki/Tsurugi</item>
+            <item>https://bluearchive.wiki/wiki/Shiroko</item>
+            <item>https://bluearchive.wiki/wiki/Hasumi</item>
+            <item>https://bluearchive.wiki/wiki/Haruna</item>
+            <item>https://bluearchive.wiki/wiki/Hoshino</item>
+            <item>https://bluearchive.wiki/wiki/Akane</item>
+            <item>https://bluearchive.wiki/wiki/Hifumi</item>
+            <item>https://bluearchive.wiki/wiki/Arisu</item>
+            <item>https://bluearchive.wiki/wiki/Marina</item>
+            <item>https://bluearchive.wiki/wiki/Misaki</item>
+            <item>https://bluearchive.wiki/wiki/Saori</item>
+            <item>https://bluearchive.wiki/wiki/Yuuka</item>
+            <item>https://bluearchive.wiki/wiki/Himari</item>
+        </string-array>
+    <string-array name="character_data_weapon_icon">
+        <item>https://static.miraheze.org/bluearchivewiki/d/d9/Weapon_Icon_Aru.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/2/2b/Weapon_Icon_Chise.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/6/6a/Weapon_Icon_Tsurugi.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/3/39/Weapon_Icon_Shiroko.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/9/92/Weapon_Icon_Hasumi.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/4/46/Weapon_Icon_Haruna.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/a/a6/Weapon_Icon_Hoshino.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/7/76/Weapon_Icon_Akane.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/1/12/Weapon_Icon_Hifumi.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/1/13/Weapon_Icon_Arisu.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/2/24/Weapon_Icon_Marina.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/e/e3/Weapon_Icon_Misaki.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/9/95/Weapon_Icon_Saori.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/2/2b/Weapon_Icon_Yuuka.png</item>
+        <item>https://static.miraheze.org/bluearchivewiki/3/36/Weapon_Icon_Himari.png</item>
+    </string-array>
+    <string-array name="character_data_weapon_name">
+        <item>Wine Red/Admire</item>
+        <item>Type 575 howitzer</item>
+        <item>Blood&amp;Gunpowder</item>
+        <item>White Fang 465</item>
+        <item>Impalement</item>
+        <item>Ideal</item>
+        <item>Eye of Horus</item>
+        <item>Silent Solution</item>
+        <item>My Necessity</item>
+        <item>Supernova: The Sword of Light</item>
+        <item>Gray Balalaika</item>
+        <item>Saint Predator</item>
+        <item>Arius Assault Rifle</item>
+        <item>Logic &amp; Reason</item>
+        <item>Clifftop Flower</item>
+    </string-array>
+</resources>

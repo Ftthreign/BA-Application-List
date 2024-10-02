@@ -9,16 +9,19 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.ba_application_list.activity.AboutActivity
 import com.example.ba_application_list.adapter.ListCharacterAdapter
+import com.example.ba_application_list.databinding.ActivityMainBinding
 import com.example.ba_application_list.modelData.Character
 
 class MainActivity : AppCompatActivity() {
     private lateinit var rvCharacter: RecyclerView
+    private lateinit var mainBinding : ActivityMainBinding
     private val characterList = ArrayList<Character>()
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        mainBinding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(mainBinding.root)
 
-        rvCharacter = findViewById(R.id.rv_character)
+        rvCharacter = mainBinding.rvCharacter
         rvCharacter.setHasFixedSize(true)
 
 
